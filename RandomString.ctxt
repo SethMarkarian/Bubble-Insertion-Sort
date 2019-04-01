@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RandomString
+comment1.params=len
+comment1.target=java.lang.String\ randomString(int)
+comment1.text=\n\ Generates\ a\ string\ of\ length\ len,\ with\ random\ letters.\n\ As\ written,\ all\ letters\ are\ lowercase.\n\ To\ switch\ to\ capitals,\ change\ UPPER_CASE\ to\ true.\n
+numComments=2
